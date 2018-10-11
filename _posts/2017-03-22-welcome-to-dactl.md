@@ -4,7 +4,7 @@ title:  "I’m afraid I’m becoming a Jack of all trades."
 subtitle: "My compulsion to do everything and do it well."
 tags:
   - thoughts
-hero: image link
+hero: https://cdn-images-1.medium.com/max/1000/0*s6fzibkPkI3bDOnb
 overlay: green
 published: true
 
