@@ -5,7 +5,7 @@ subtitle: "My compulsion to do everything and do it well."
 tags:
   - thoughts
 hero: https://cdn-images-1.medium.com/max/1000/0*s6fzibkPkI3bDOnb
-overlay: green
+overlay: brown
 published: true
 
 ---
@@ -17,7 +17,7 @@ She explained: “a shareholder of the restaurant I’m working at is looking fo
 
 I kept my expectations low. I was 19. My biggest career achievement was graduating from a public high-school with medium-low grades. I had no idea what I wanted to do with my life. But why not go for a quick interview?
 
-    It’ll be over in 15 minutes and then I’m free to go eat downtown.
+> It’ll be over in 15 minutes and then I’m free to go eat downtown.
 
 Turns out, I was a bit too straight-forward in my texting with my potential future employer. I ended up insulting him. See, small talk and over-politeness do not come easy to me.
 
@@ -53,11 +53,11 @@ Long story short, I’m now at a point where I have in-depth knowledge in many c
 
 I keep telling myself that one day I’ll find a way to combine my scattered pieces of knowledge in a meaningful way. I don’t know how much truth that holds. It takes effort to prevent myself from feeling overwhelmed and worthless. I see the worth what I do could have if only I were better at it. But “it” is never a single thing.
 
-    I cook, I bake, I draw, illustrate, paint with watercolors, paint digitally, write emails, essays, troubleshoot, offer tech support, manage stock in different warehouses, make invoices, call clients, do some accounting, make websites, dabble a bit in marketing, send newsletters, build databases, draw comics, design tattoos, and SO MUCH MORE.
+> I cook, I bake, I draw, illustrate, paint with watercolors, paint digitally, write emails, essays, troubleshoot, offer tech support, manage stock in different warehouses, make invoices, call clients, do some accounting, make websites, dabble a bit in marketing, send newsletters, build databases, draw comics, design tattoos, and SO MUCH MORE.
 
 Do you see a pattern? I don’t. Everything I do, I want to do well. If I start building something, I need to learn how to perfect it. I need to spend days researching, trying out different ideas, tweaking details… It’s never “let’s do this thing and get on with life.” It’s always “let’s find the best way I can possibly do this and then do it” even if it’s something relatively unimportant and not at all aligned with my values and goals.
 
-    I take it all on. Perhaps because I’m afraid to say no, possibly to prove something and arguably because I don’t trust other people to do it well.
+> I take it all on. Perhaps because I’m afraid to say no, possibly to prove something and arguably because I don’t trust other people to do it well.
 
 The stupid aspect of this whole situation is that I often do a bad job at something, because I’m no expert (and frankly don’t need to be.) Then instead of looking for a ready-made solution (i.e. paying someone who’s already nailed) or delegating the task, I feel like I have to do it myself, like I have to get better. If that means spending hours, days, or weeks to gather knowledge and develop the skills, then so be it.
 
@@ -85,7 +85,3 @@ Ideally, it wouldn’t be like that at all. There’d be flexibility to focus on
 Focus on what makes me tick, what makes me feel excited at the start of a new day. Question now is, will I make it? I still have to juggle work obligations, the office, and personal goals. As long as I have loads of isolated responsibilities and no precise long-term goal to concentrate on, how do I focus?
 
 I suppose we’ll see; I image I’m going to figure it out, but right now the answer seems uncertain. What’s unquestionable is that things will have to change, or no progress will be made.
-
-    Do you struggle with this too? Let me know your thoughts below.
-
-    And thanks for reading~ See you soon. 👋🏻
