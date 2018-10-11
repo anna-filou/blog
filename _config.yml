@@ -1,13 +1,13 @@
 # Base blog settings
 baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "https://anna-filou.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Anna's blog | thoughts on design and life
   description                  : >
-                               this should contain a proper description
+                               Thoughts
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
