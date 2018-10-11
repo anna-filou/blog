@@ -1,13 +1,13 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/blog/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "https://anna-filou.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Anna's blog | thoughts on design and life
+  title                      : Anna's blog
   description                  : >
-                               Thoughts
+                               Thoughts on design and life. Press the button on the top right for a dark theme.
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
