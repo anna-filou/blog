@@ -10,9 +10,9 @@ published: true
 
 ---
 It all started nearly two years ago. I woke up to the sound of my phone ringing a bit before noon. My best friend sounded so excited as she shouted “I got you a job!” I was confused.
-<!–-break-–>
+
 She explained: “a shareholder of the restaurant I’m working at is looking for a secretary who speaks German and knows her way around computers. He is practically looking for you! You’ll even get to travel as part of the job!”
-<!–-break-–>
+
 I kept my expectations low. I was 19. My biggest career achievement was graduating from a public high-school with medium-low grades. I had no idea what I wanted to do with my life. But why not go for a quick interview?
 
     It’ll be over in 15 minutes and then I’m free to go eat downtown.
