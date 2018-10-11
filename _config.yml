@@ -7,7 +7,7 @@ url                          : "https://anna-filou.github.io" # the base hostnam
 blog:
   title                      : Anna's blog
   description                  : >
-                               Thoughts on design and life. Press the button on the top right for a dark theme.
+                               Thoughts on design and life
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -20,8 +20,8 @@ blog:
   titles_only                : false # show post titles only on main blog page
 
 # Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
+  font                       : '"Open Sans", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+  load_google_fonts          : 'Open Sans:400,400italic,700,700italic'
 
 
 # Author info
