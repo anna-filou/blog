@@ -43,9 +43,9 @@ sitemap:
   	 </ul>
 
 
-  {% comment %}
+ 
     {% include utils/tag-box.html %}
-  {% endcomment %}
+
 
 
 </div>
