@@ -7,6 +7,7 @@ tags:
 hero: https://cdn-images-1.medium.com/max/1000/0*s6fzibkPkI3bDOnb
 overlay: brown
 published: true
+Permalink: jack-of-all-trades
 
 ---
 ## My compulsion to do everything and do it well.
