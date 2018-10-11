@@ -5,10 +5,12 @@ subtitle: "My compulsion to do everything and do it well."
 tags:
   - thoughts
 hero: image link
-overlay: red
+overlay: green
 published: true
 
 ---
+## My compulsion to do everything and do it well.
+
 It all started nearly two years ago. I woke up to the sound of my phone ringing a bit before noon. My best friend sounded so excited as she shouted “I got you a job!” I was confused.
 
 She explained: “a shareholder of the restaurant I’m working at is looking for a secretary who speaks German and knows her way around computers. He is practically looking for you! You’ll even get to travel as part of the job!”
@@ -46,8 +48,6 @@ Let’s not forget that that was not at all related to my main job. At home I’
 My time got split into lots of tiny pieces: Research on cloud invoicing software, research on building landing pages, testing out various email clients, Excel tutorials, research on CMRs, messing around with databases, testing task management apps, learning design principles… The list goes on and it’s pretty long.
 
 Somehow I managed to improve on everything I tried to. Of course I suspect that the improvement would have been much greater and faster if I’d focused on a couple of things at a time. Unfortunately, that was simply not possible as I had to be doing all of them at work every day.
-
----
 
 Long story short, I’m now at a point where I have in-depth knowledge in many completely unrelated topics. My skills are diverse, but none of them mastered or anywhere close to that.
 
