@@ -10,7 +10,6 @@
             <li><a href="https://annafilou.com">MAIN SITE</a></li>
             <li><a href="{{ '/about' | prepend: site.baseurl }}">ABOUT</a></li>
             <li><a href="{{ '/archive' | prepend: site.baseurl }}">ALL POSTS</a></li>
-            <span>Click the button on the top right to toggle the dark theme.</span>
         </ul>
     </div>
     <div class="social">
@@ -61,6 +60,10 @@
             <a href="#" onclick="switchTheme()" title="Switch theme?">
               <span class="icon-invert_colors" id="theme-switcher"></span>
             </a>
+        </li>
+        <li>
+            <a href="#" onclick="switchTheme()" title="Switch theme text">
+                id="theme-switcher-text">(switch theme)</a>
         </li>
       </ul>
     </div>
