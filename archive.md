@@ -13,6 +13,8 @@ sitemap:
   {% include page/searchbox.html %}
 {% endcapture %}
 
+{% include utils/tag-box.html %}
+
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
     {% for post in site.posts %}
@@ -44,7 +46,7 @@ sitemap:
 
 
  
-    {% include utils/tag-box.html %}
+  
 
 
 
