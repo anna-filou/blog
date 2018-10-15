@@ -5,7 +5,7 @@
    {% assign tags = site.tags | sort %}
    {% for tag in tags %}
    <li>
-     <a href="blog/tag/{{ tag | first | slugify }}/">#{{ tag[0] }}</a>
+     <a href="tag/{{ tag | first | slugify }}/">#{{ tag[0] }}</a>
    </li>
    {% endfor %}
 </ul>
