@@ -7,7 +7,7 @@ url                          : "https://annafilou.com/" # the base hostname & pr
 blog:
   title                      : Blog | Anna Filou | Design
   description                  : >
-                               [main site](https://annafilou.com) | [all posts](/archive/) | [work with me](https://annafilou.typeform.com/to/ufC3C3) | [dark theme](<a href="#" onclick="switchTheme()" title="Switch theme?">)
+                               thoughts on design, languages, drawing, life and more
 
 # Layout configuration
   logo_path                  : # "assets/img/logo.svg" # path to logo file, currently no logo
