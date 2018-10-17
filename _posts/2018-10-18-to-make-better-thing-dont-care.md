@@ -37,7 +37,7 @@ For example, when I'm working on a drawing, it feels to me like it's got to be t
 
 The one on the left is actually the "refined" piece I spent more time and energy on.
 
-![](https://www.instagram.com/p/BapIfoiFM7H/)
+![](https://scontent-cdt1-1.cdninstagram.com/vp/2febfa0c1ff77246877cd9d75e017155/5C4A5622/t51.2885-15/e35/22709015_1693816470674527_8315685674426564608_n.jpg)
 
 I don't think I'm alone in believing that the sketch looks much better and less stiff.
 
@@ -59,7 +59,7 @@ Now, it's certainly not going to serve you well in the long run if you don't car
 
 Obsessing over the details of the outcome won't get you anywhere anytime soon. Let go of this idea that everything has to come out perfect and just do the things you want to do. You'll be surprised by how much better than expected everything will turn out and how you won't feel disappointed whenever something is less than stellar by your former standards. **Don't use that as an excuse to spend close to no time on it and think it'll be well-received as long as you don't care, though.**
 
-![](https://www.instagram.com/p/BnatM1EBE-g/)
+![](https://scontent-cdt1-1.cdninstagram.com/vp/e1b548a10f66cfd2fa9c85972948a840/5C5FC664/t51.2885-15/e35/40360541_163321974551826_8206455874885287610_n.jpg)
 
 The quick doodles I draw on post-it notes are the ones I tend to like the best.
 
