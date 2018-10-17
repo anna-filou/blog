@@ -1,4 +1,4 @@
 ---
-slug: misc.
+slug: misc
 name: Miscellaneous
 ---
