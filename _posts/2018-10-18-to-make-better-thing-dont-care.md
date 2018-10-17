@@ -5,7 +5,7 @@ tags:
   - drawing
   - creativity
   - productivity
-hero: https://www.instagram.com/p/BnatM1EBE-g/
+hero: https://scontent-cdt1-1.cdninstagram.com/vp/e1b548a10f66cfd2fa9c85972948a840/5C5FC664/t51.2885-15/e35/40360541_163321974551826_8206455874885287610_n.jpg
 overlay: yellow
 published: true
 Permalink: /to-make-better-things-dont-care/
