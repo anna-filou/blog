@@ -13,8 +13,8 @@ Permalink: /to-make-better-things-dont-care/
 
 One day not that long ago I came to a realization.
 
-You know when you try really hard to make something look or sound or work great and it ends up being really bad? Then another time you just throw something together really quickly—*either because you had a sudden idea and needed to act on it or because you were in a hurry*—and it effortlessly comes out great? 
-<!--break-->
+You know when you try really hard to make something look or sound or work great and it ends up being really bad? Then another time you just throw something together really quickly—*either because you had a sudden idea and needed to act on it or because you were in a hurry*—and it effortlessly comes out great? <!–-break-–> 
+
 That happens to me a lot and I bet it's the same with most people. I like to draw; often times I'll be doodling on a scrap piece of paper with some random pen and I'll think "this looks pretty good, it'd make a nice finished piece." So I'll get out my nice sketchbook and tools and I'll start over, first sketching, then refining, oftentimes finishing hours later. And the result will be... well, way less than satisfactory.
 
 *"Why does that constantly happen?"* I used to wonder. Now I think the answer is pretty simple.
@@ -37,7 +37,7 @@ For example, when I'm working on a drawing, it feels to me like it's got to be t
 
 The one on the left is actually the "refined" piece I spent more time and energy on.
 
-![](https://www.instagram.com/p/BapIfoiFM7H/?utm_source=ig_web_button_share_sheet)
+![](https://www.instagram.com/p/BapIfoiFM7H/)
 
 I don't think I'm alone in believing that the sketch looks much better and less stiff.
 
@@ -59,7 +59,7 @@ Now, it's certainly not going to serve you well in the long run if you don't car
 
 Obsessing over the details of the outcome won't get you anywhere anytime soon. Let go of this idea that everything has to come out perfect and just do the things you want to do. You'll be surprised by how much better than expected everything will turn out and how you won't feel disappointed whenever something is less than stellar by your former standards. **Don't use that as an excuse to spend close to no time on it and think it'll be well-received as long as you don't care, though.**
 
-![](https://www.instagram.com/p/BnatM1EBE-g/?utm_source=ig_web_button_share_sheet)
+![](https://www.instagram.com/p/BnatM1EBE-g/)
 
 The quick doodles I draw on post-it notes are the ones I tend to like the best.
 
