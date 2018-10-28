@@ -5,7 +5,7 @@ subtitle: "My compulsion to do everything and do it well."
 tags:
   - thoughts
 hero: https://cdn-images-1.medium.com/max/1000/0*s6fzibkPkI3bDOnb
-overlay: brown
+overlay: red
 published: true
 Permalink: /jack-of-all-trades/
 
