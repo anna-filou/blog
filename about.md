@@ -51,4 +51,4 @@ You can go online and learn about anything from anyone. Perhaps some people will
 
 Wanna work on a project together? Need help with something? The are contact and social links on the top right of this page.
 
-There’s alo a quick and straight-forward contact form [on the main site](https://annafilou.com/#Typeform) in case you’d like a **quote** on the creation of a website or some other work.
+There’s alo a quick and straight-forward contact form [here](https://annafilou.typeform.com/to/ufC3C3) in case you’d like a **quote** on the creation of a website or some other work.
