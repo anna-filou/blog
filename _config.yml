@@ -10,7 +10,7 @@ blog:
                                thoughts on design, languages, drawing, life and more
 
 # Layout configuration
-  logo_path                  : "assets/img/AN - logo.png" # path to logo file,
+  logo_path                  : "assets/img/AN - logo.svg" # path to logo file,
   search_path                : annafilou.com/blog # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
