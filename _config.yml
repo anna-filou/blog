@@ -1,7 +1,7 @@
 # Base blog settings
-baseurl                      : "/blog/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/blog" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://annafilou.com/" # the base hostname & protocol for your site
+url                          : "https://annafilou.com" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
@@ -28,7 +28,7 @@ blog:
 author:
   fullname                  : Anna Filou
   rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : anna.filou@outlook.com # change to your e-mail address
+  mail                      : hello@annafilou.com # change to your e-mail address
   twitter                   : that__anna
   github                    : # empty
   youtube                   : # empty
@@ -56,7 +56,7 @@ permalink                    : posts/:slug
 excerpt_separator            : <!–-break-–>
 
 # Pagination
-paginate                     : 10
+paginate                     : 5
 paginate_path                : '/page-:num/'
 
 # Tags
